@@ -11,6 +11,7 @@ import Foundation
 #elseif os(iOS)
 import UIKit
 #endif
+import CoreGraphics
 
 import simd
 
